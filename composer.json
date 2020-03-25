@@ -5,7 +5,7 @@
     "keywords": ["nsq", "queue"],
     "homepage": "http://github.com/stackerzzq/phpnsq",
     "require": {
-        "monolog/monolog": "^1.23",
+        "monolog/monolog": "^2.0",
         "symfony/console": "^4.0",
         "react/event-loop": "^0.4.3",
         "bramus/monolog-colored-line-formatter": "^2.0"
