@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "monolog/monolog": "^3.6",
-        "symfony/console": "^7.1",
+        "symfony/console": "^7.0",
         "react/event-loop": "^1.5",
         "bramus/monolog-colored-line-formatter": "^3.1"
     },
