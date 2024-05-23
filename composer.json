@@ -1,9 +1,7 @@
 {
-    "name": "merkeleon/phpnsq",
+    "name": "eugenecoinspaid/phpnsq_new",
     "description": "PHP Client for nsq",
     "type": "library",
-    "keywords": ["nsq", "queue"],
-    "homepage": "http://github.com/stackerzzq/phpnsq",
     "require": {
         "monolog/monolog": "^3.6",
         "symfony/console": "^7.1",
@@ -23,11 +21,5 @@
             "OkStuff\\PhpNsq\\Tests\\": "tests/"
         }
     },
-    "authors": [
-        {
-            "name": "stackerzzq",
-            "email": "foo_stacker@yeah.net"
-        }
-    ],
     "license": "MIT"
 }
